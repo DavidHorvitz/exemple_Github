@@ -1,0 +1,19 @@
+{
+  "name": "exemple_github",
+  "version": "1.0.0",
+  "description": "first project used github",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidHorvitz/exemple_Github.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidHorvitz/exemple_Github/issues"
+  },
+  "homepage": "https://github.com/DavidHorvitz/exemple_Github#readme"
+}
